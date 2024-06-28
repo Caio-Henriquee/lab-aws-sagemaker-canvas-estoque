@@ -15,7 +15,7 @@ Nesse README vou mostra passo a passo como fazer um treinamento de maquinha (ML)
 
 -  Primeiro vamos selecionar o nosso dataset, que no caso sera p dataset-1000-com-preco-promocional-e-renovacao-estoque, que esta disponivel na pasta de dataset do projeto, dento do SagaMaker canvas eu o chamei de "desafio_dio"
 -  Importanto o dataset
-  ![image]([https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225554.png?raw=true))
+  ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225554.png?raw=true)
 -  Nomeando o projeto
   ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225639.png)
 
