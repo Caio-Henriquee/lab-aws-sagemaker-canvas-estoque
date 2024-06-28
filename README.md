@@ -15,21 +15,21 @@ Nesse README vou mostra passo a passo como fazer um treinamento de maquinha (ML)
 
 -  Primeiro vamos selecionar o nosso dataset, que no caso sera p dataset-1000-com-preco-promocional-e-renovacao-estoque, que esta disponivel na pasta de dataset do projeto, dento do SagaMaker canvas eu o chamei de "desafio_dio"
 -  Importanto o dataset
--  ![image]([https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225554.png?raw=true))
+  ![image]([https://github.com/digitalinnovationone/lab-aws-sagemaker-canvas-estoque/assets/730492/72f5c21f-5562-491e-aa42-2885a3184650](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225554.png?raw=true))
 -  Nomeando o projeto
--  ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225639.png)
+  ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225639.png)
 
 
 ### 2. Construir/Treinar
 
 -  Importanto o dataset para dentro do projeto
--  ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225704.png?raw=true)
+   ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20225704.png?raw=true)
 -  Configurando a variavel que vamos analisar, no caso sera a QUANTIDADE_ESTOQUE, que mostra a quantidade de um produto no estoque eu uma data. Essa variavel sera responavel por modelar os nossos resultados que vão sair.
--  ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20231422.png?raw=true)
+   ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20231422.png?raw=true)
 -  Identificando qual sera o identificador unico (id) usado, que será o ID_PRODUTO. Após identificar ele, o aprendizado de maquina vai analisar o comportamento de cada id em relação a QUANTIDADE_ESTOQUE
--  ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20231449.png?raw=true)
+   ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20231449.png?raw=true)
 -  Após esses passos é so dar o quick build e eseperar finalizar o treinamento usando o dataset
--  ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20231521.png?raw=true)
+   ![image](https://github.com/Caio-Henriquee/lab-aws-sagemaker-canvas-estoque/blob/main/img/Captura%20de%20tela%202024-06-27%20231521.png?raw=true)
 
 ### 3. Analisar
 
