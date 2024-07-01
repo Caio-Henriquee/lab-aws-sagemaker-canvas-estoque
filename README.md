@@ -68,19 +68,28 @@ Os percentis são como marcadores que dividem um conjunto de dados ordenados em 
 -P10 = 54.938
 
 -Este valor indica que em 10% das vezes, a demanda por este produto será de 54.938 unidades ou menos. Isso representa um cenário de baixa demanda. É um valor útil para garantir que não teremos excesso de estoque quando a demanda for baixa.
+
 -Exemplo prático: Imagine que você está planejando o estoque para o próximo mês. Se o P10 é 54.938, significa que em um cenário de baixa demanda, você precisará de pelo menos 54.938 unidades. Se p10 é 54.938, significa que é muito improvável que a demanda caia abaixo desse valor. Isso ajuda a planejar para um cenário de menor demanda, garantindo que você não fique com excesso de estoque.
 
 - Percentil 50
+  
 -P50 = 62.181
+
 -Este valor indica que em 50% das vezes, a demanda por este produto será de 62.181 unidades ou menos. Este é o valor médio esperado, ou seja, metade das vezes a demanda será menor que isso e metade das vezes será maior. É um bom ponto de partida para planejar o estoque.
+
 -Exemplo prático: Se o P50 é 62.181, significa que em um mês típico, você precisará de cerca de 62.181 unidades para atender à demanda média.
 
 - Percentil 90
+
 -P90 = 71.467
+
 -Planeje para ter até 71.467 unidades em estoque.Isso ajuda a garantir que você não fique sem estoque em períodos de alta demanda, como durante promoções ou picos sazonais.
 
 -Resumindo
+
 -Baixa demanda (P10): Se você planejar ter pelo menos 54.938 unidades, estará preparado para atender à demanda mínima esperada 90% das vezes.
+
 -Demanda média (P50): Mantendo cerca de 62.181 unidades, você estará bem preparado para o cenário de demanda mais comum.
+
 -Alta demanda (P90): Tendo até 71.467 unidades, você estará pronto para quase todos os cenários de alta demanda, garantindo que seus clientes não fiquem sem o produto.
 
