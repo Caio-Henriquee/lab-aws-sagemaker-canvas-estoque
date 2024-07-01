@@ -65,6 +65,7 @@ O que são percentis?
 Os percentis são como marcadores que dividem um conjunto de dados ordenados em 100 partes iguais. Eles nos ajudam a entender onde um valor específico se encaixa dentro de um grupo de dados. Vamos explorar os percentis p10, p50, p90 de forma simples.
 
 - Percentil 10
+  
 -P10 = 54.938
 
 -Este valor indica que em 10% das vezes, a demanda por este produto será de 54.938 unidades ou menos. Isso representa um cenário de baixa demanda. É um valor útil para garantir que não teremos excesso de estoque quando a demanda for baixa.
@@ -73,23 +74,23 @@ Os percentis são como marcadores que dividem um conjunto de dados ordenados em 
 
 - Percentil 50
   
--P50 = 62.181
+- P50 = 62.181
 
--Este valor indica que em 50% das vezes, a demanda por este produto será de 62.181 unidades ou menos. Este é o valor médio esperado, ou seja, metade das vezes a demanda será menor que isso e metade das vezes será maior. É um bom ponto de partida para planejar o estoque.
+- Este valor indica que em 50% das vezes, a demanda por este produto será de 62.181 unidades ou menos. Este é o valor médio esperado, ou seja, metade das vezes a demanda será menor que isso e metade das vezes será maior. É um bom ponto de partida para planejar o estoque.
 
--Exemplo prático: Se o P50 é 62.181, significa que em um mês típico, você precisará de cerca de 62.181 unidades para atender à demanda média.
+- Exemplo prático: Se o P50 é 62.181, significa que em um mês típico, você precisará de cerca de 62.181 unidades para atender à demanda média.
 
 - Percentil 90
 
--P90 = 71.467
+- P90 = 71.467
 
--Planeje para ter até 71.467 unidades em estoque.Isso ajuda a garantir que você não fique sem estoque em períodos de alta demanda, como durante promoções ou picos sazonais.
+- Planeje para ter até 71.467 unidades em estoque.Isso ajuda a garantir que você não fique sem estoque em períodos de alta demanda, como durante promoções ou picos sazonais.
 
--Resumindo
+- Resumindo
 
--Baixa demanda (P10): Se você planejar ter pelo menos 54.938 unidades, estará preparado para atender à demanda mínima esperada 90% das vezes.
+- Baixa demanda (P10): Se você planejar ter pelo menos 54.938 unidades, estará preparado para atender à demanda mínima esperada 90% das vezes.
 
--Demanda média (P50): Mantendo cerca de 62.181 unidades, você estará bem preparado para o cenário de demanda mais comum.
+- Demanda média (P50): Mantendo cerca de 62.181 unidades, você estará bem preparado para o cenário de demanda mais comum.
 
--Alta demanda (P90): Tendo até 71.467 unidades, você estará pronto para quase todos os cenários de alta demanda, garantindo que seus clientes não fiquem sem o produto.
+- Alta demanda (P90): Tendo até 71.467 unidades, você estará pronto para quase todos os cenários de alta demanda, garantindo que seus clientes não fiquem sem o produto.
 
